@@ -1,0 +1,20 @@
+ENVI ASCII Plot File [Tue Aug 30 13:43:03 2022]
+Column 1: Band Number
+Column 2: Mean: e1 [Red] 632 points~~2
+Column 3: Mean: e2 [Green] 624 points~~3
+Column 4: Mean: e3 [Blue] 776 points~~4
+Column 5: Mean: e4 [Yellow] 590 points~~5
+Column 6: Mean: e5 [Cyan] 504 points~~6
+Column 7: Mean: e6 [Magenta] 542 points~~7
+Column 8: Mean: e7 [Maroon] 504 points~~8
+Column 9: Mean: e8 [Sea Green] 422 points~~9
+Column 10: Mean: e9 [Purple] 422 points~~10
+Column 11: Mean: green [Coral] 43 points~~11
+Column 12: Mean: grey [Aquamarine] 144 points~~12
+Column 13: Mean: white [Orchid] 112 points~~13
+Column 14: Mean: red [Sienna] 80 points~~14
+Column 15: Mean: black [Chartreuse] 56 points~~15
+Column 16: Mean: blue [Thistle] 94 points~~16
+  1.000000  130.482595  174.850962  162.690722  154.796610  154.436508  172.453875  163.674603  214.296209  217.289100  105.674419  189.694444  231.848214  248.437500   52.767857   87.489362
+  2.000000   98.844937  133.177885  109.640464  118.320339  131.402778  114.352399  106.446429  151.023697  197.232227  238.906977  203.743056  237.839286   97.575000   61.089286  124.489362
+  3.000000   68.536392   89.722756   77.509021   87.166102  104.509921   81.865314   75.146825  102.691943  160.272512  146.534884  214.020833  245.000000   68.562500   63.892857  225.010638

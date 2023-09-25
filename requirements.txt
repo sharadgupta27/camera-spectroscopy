@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+pylab
+glob
+scikit-learn
+colorsys
+scipy
+os
+seaborn
+openpyxl
