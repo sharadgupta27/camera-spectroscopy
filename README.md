@@ -1,6 +1,6 @@
 # Smartphone-Based Spectroscopy for Estimating Soil Properties
 
-This repository contains the data and code for the paper "Smartphone-based spectroscopy as a tool to estimate soil attributes for the citizen science concept", published in Smart Agricultural Technology, Elsevier.
+This repository contains the data and code for the paper "Smartphone-based spectroscopy as a tool to estimate soil attributes for the citizen science concept", published in Smart Agricultural Technology, Elsevier with [DOI] (https://doi.org/10.1016/j.atech.2023.100327)
 
 ## Introduction
 
@@ -21,10 +21,10 @@ The methods used in this project consist of the following:
 
 ## Results
 
-The results of this project show that smartphone-based spectroscopy can be used to accurately predict a variety of soil properties. The best performing models were able to achieve a high degree of accuracy for most of the soil properties that were tested.
+The results of this project show that smartphone-based spectroscopy can be used to accurately predict a variety of soil properties. The best performing models were able to achieve a sufficiently good degree of accuracy for most of the soil properties that were tested.
 
 ## Citation
 
 If you use the code or data in this repository, please cite the following paper:
 
-Gupta, S. K., et al. (2023). Smartphone-based spectroscopy as a tool to estimate soil attributes for the citizen science concept. Smart Agricultural Technology, 100327.
+Gupta, S. K., Efrati, B., Amir, O., Francos, N., Sternberg, M., & Ben-Dor, E. (2023). Smartphone-based spectroscopy as a tool to estimate soil attributes for the citizen science concept. Smart Agricultural Technology. https://doi.org/10.1016/j.atech.2023.100327
