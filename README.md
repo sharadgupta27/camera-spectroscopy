@@ -17,7 +17,7 @@ The data used in this project consists of the following:
 
 The methods used in this project consist of the following:
 - Image processing: The camera images were processed to extract features that are relevant to soil properties.
-- Machine learning: A variety of machine learning models were used to predict soil properties from the camera images and ASD spectra.
+- Regression methods: A variety of regression models were used to predict soil properties from the camera images and ASD spectra.
 
 ## Results
 
